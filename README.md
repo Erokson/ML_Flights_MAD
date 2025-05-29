@@ -38,10 +38,6 @@ El modelo SARIMA (manual) mostró el mejor rendimiento con los siguientes errore
 
 Esto indica que capturar explícitamente la estacionalidad mejora significativamente la precisión de las predicciones.
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para discutir cambios o mejoras.
-
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT.
@@ -85,10 +81,6 @@ The manual SARIMA model demonstrated the best performance with the following err
 - RMSE: 273,393.69
 
 This indicates that explicitly capturing seasonality significantly improves prediction accuracy.
-
-## Contributions
-
-Contributions are welcome. Please open an issue or a pull request to discuss changes or improvements.
 
 ## License
 
